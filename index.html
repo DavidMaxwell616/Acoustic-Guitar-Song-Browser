@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Phaser Acoustic Song Browser</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://cdn.jsdelivr.net/npm/phaser@3.90.0/dist/phaser.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div id="app">
+    <div id="uiOverlay">
+      <div id="toolbar">
+        <div id="title">Acoustic Song Browser</div>
+
+        <input id="searchInput" type="text" placeholder="Search title or artist..." />
+
+        <button id="clearBtn">Clear</button>
+        <select id="genreSelect">
+          <option value="All">All Genres</option>
+        </select>
+
+        <select id="settingSelect">
+          <option value="All">All Settings</option>
+          <option value="campfire">Campfire</option>
+          <option value="band">Band</option>
+          <option value="tricky_home_practice">Tricky Home Practice</option>
+        </select>
+
+        <select id="sortSelect">
+          <option value="title">Sort: Title</option>
+          <option value="artist">Sort: Artist</option>
+          <option value="year">Sort: Year</option>
+        </select>
+
+        <div id="songCount">0 songs</div>
+      </div>
+    </div>
+
+    <div id="game"></div>
+  </div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+
+</html>

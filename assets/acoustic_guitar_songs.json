@@ -1,0 +1,642 @@
+{
+  "oldies": {
+    "campfire": [
+      {
+        "title": "Stand by Me",
+        "artist": "Ben E. King",
+        "year": 1961,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Brown Eyed Girl",
+        "artist": "Van Morrison",
+        "year": 1967,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Sweet Caroline",
+        "artist": "Neil Diamond",
+        "year": 1969,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Leaving on a Jet Plane",
+        "artist": "Peter, Paul and Mary",
+        "year": 1967,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Take Me Home, Country Roads",
+        "artist": "John Denver",
+        "year": 1971,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "band": [
+      {
+        "title": "Proud Mary",
+        "artist": "Creedence Clearwater Revival",
+        "year": 1969,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Twist and Shout",
+        "artist": "The Beatles",
+        "year": 1963,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Bad Moon Rising",
+        "artist": "Creedence Clearwater Revival",
+        "year": 1969,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "The Weight",
+        "artist": "The Band",
+        "year": 1968,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Wild World",
+        "artist": "Cat Stevens",
+        "year": 1970,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "tricky_home_practice": [
+      {
+        "title": "Blackbird",
+        "artist": "The Beatles",
+        "year": 1968,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Classical Gas",
+        "artist": "Mason Williams",
+        "year": 1968,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Dust in the Wind",
+        "artist": "Kansas",
+        "year": 1977,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Landslide",
+        "artist": "Fleetwood Mac",
+        "year": 1975,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Vincent",
+        "artist": "Don McLean",
+        "year": 1971,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ]
+  },
+  "classic_rock": {
+    "campfire": [
+      {
+        "title": "Wish You Were Here",
+        "artist": "Pink Floyd",
+        "year": 1975,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Horse with No Name",
+        "artist": "America",
+        "year": 1971,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Maggie May",
+        "artist": "Rod Stewart",
+        "year": 1971,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Patience",
+        "artist": "Guns N' Roses",
+        "year": 1988,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Free Fallin'",
+        "artist": "Tom Petty",
+        "year": 1989,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "band": [
+      {
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "year": 1976,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "American Girl",
+        "artist": "Tom Petty and the Heartbreakers",
+        "year": 1976,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Sweet Home Alabama",
+        "artist": "Lynyrd Skynyrd",
+        "year": 1974,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Peaceful Easy Feeling",
+        "artist": "Eagles",
+        "year": 1972,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "More Than a Feeling",
+        "artist": "Boston",
+        "year": 1976,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "tricky_home_practice": [
+      {
+        "title": "Over the Hills and Far Away",
+        "artist": "Led Zeppelin",
+        "year": 1973,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Bron-Yr-Aur Stomp",
+        "artist": "Led Zeppelin",
+        "year": 1970,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Never Going Back Again",
+        "artist": "Fleetwood Mac",
+        "year": 1977,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Roundabout",
+        "artist": "Yes",
+        "year": 1971,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Crazy on You",
+        "artist": "Heart",
+        "year": 1976,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ]
+  },
+  "80s": {
+    "campfire": [
+      {
+        "title": "Every Rose Has Its Thorn",
+        "artist": "Poison",
+        "year": 1988,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Wanted Dead or Alive",
+        "artist": "Bon Jovi",
+        "year": 1986,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Take on Me",
+        "artist": "a-ha",
+        "year": 1985,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "With or Without You",
+        "artist": "U2",
+        "year": 1987,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Fast Car",
+        "artist": "Tracy Chapman",
+        "year": 1988,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "band": [
+      {
+        "title": "Summer of '69",
+        "artist": "Bryan Adams",
+        "year": 1985,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Jessie's Girl",
+        "artist": "Rick Springfield",
+        "year": 1981,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Don't Stop Believin'",
+        "artist": "Journey",
+        "year": 1981,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Need You Tonight",
+        "artist": "INXS",
+        "year": 1987,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Hurts So Good",
+        "artist": "John Mellencamp",
+        "year": 1982,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "tricky_home_practice": [
+      {
+        "title": "Sultans of Swing",
+        "artist": "Dire Straits",
+        "year": 1978,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Little Wing",
+        "artist": "Stevie Ray Vaughan",
+        "year": 1985,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "The Clap",
+        "artist": "Steve Howe",
+        "year": 1971,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Tears in Heaven",
+        "artist": "Eric Clapton",
+        "year": 1992,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Mood for a Day",
+        "artist": "Yes",
+        "year": 1971,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ]
+  },
+  "90s": {
+    "campfire": [
+      {
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "year": 1995,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Good Riddance (Time of Your Life)",
+        "artist": "Green Day",
+        "year": 1997,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "More Than Words",
+        "artist": "Extreme",
+        "year": 1990,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Closing Time",
+        "artist": "Semisonic",
+        "year": 1998,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Drive",
+        "artist": "Incubus",
+        "year": 1999,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "band": [
+      {
+        "title": "Plush",
+        "artist": "Stone Temple Pilots",
+        "year": 1992,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Mr. Jones",
+        "artist": "Counting Crows",
+        "year": 1993,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "1979",
+        "artist": "The Smashing Pumpkins",
+        "year": 1995,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Under the Bridge",
+        "artist": "Red Hot Chili Peppers",
+        "year": 1991,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Zombie",
+        "artist": "The Cranberries",
+        "year": 1994,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "tricky_home_practice": [
+      {
+        "title": "Tears in Heaven",
+        "artist": "Eric Clapton",
+        "year": 1992,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Black Hole Sun",
+        "artist": "Soundgarden",
+        "year": 1994,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Street Spirit (Fade Out)",
+        "artist": "Radiohead",
+        "year": 1995,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Neon",
+        "artist": "John Mayer",
+        "year": 1999,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Crash into Me",
+        "artist": "Dave Matthews Band",
+        "year": 1996,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ]
+  },
+  "post_2000": {
+    "campfire": [
+      {
+        "title": "I'm Yours",
+        "artist": "Jason Mraz",
+        "year": 2008,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Ho Hey",
+        "artist": "The Lumineers",
+        "year": 2012,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Riptide",
+        "artist": "Vance Joy",
+        "year": 2013,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Wagon Wheel",
+        "artist": "Old Crow Medicine Show",
+        "year": 2004,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Hey, Soul Sister",
+        "artist": "Train",
+        "year": 2009,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "band": [
+      {
+        "title": "Use Somebody",
+        "artist": "Kings of Leon",
+        "year": 2008,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Yellow",
+        "artist": "Coldplay",
+        "year": 2000,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Best of You",
+        "artist": "Foo Fighters",
+        "year": 2005,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Take Me Out",
+        "artist": "Franz Ferdinand",
+        "year": 2004,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Little Talks",
+        "artist": "Of Monsters and Men",
+        "year": 2011,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ],
+    "tricky_home_practice": [
+      {
+        "title": "Stop This Train",
+        "artist": "John Mayer",
+        "year": 2006,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Heart of Life",
+        "artist": "John Mayer",
+        "year": 2006,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Blackbird",
+        "artist": "Alter Bridge",
+        "year": 2007,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "If It Means a Lot to You",
+        "artist": "A Day to Remember",
+        "year": 2009,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      },
+      {
+        "title": "Cherry Wine",
+        "artist": "Hozier",
+        "year": 2014,
+        "lyrics": "",
+        "chords": "",
+        "tab": ""
+      }
+    ]
+  }
+}
